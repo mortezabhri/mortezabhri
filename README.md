@@ -1,7 +1,7 @@
 <h1 align="right">سلام، من [نام شما] هستم 👋</h1>
 
 ---
-![ggg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![ggg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ggg&logoColor=white)
 ### 🧑‍💻 درباره من
 
 🎯 تمرکز من روی ساخت رابط‌های کاربری زیبا، واکنش‌گرا و سریع با استفاده از HTML، CSS، JavaScript و فریم‌ورک‌هایی مثل Vue.js / React.js هست.
