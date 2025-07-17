@@ -1,9 +1,9 @@
 # Hi 👋. I'M Morteza
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-cb0e0e?style=for-the-badge&logo=gmail&logoColor=white)](https://t.me/your-telegram) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mortezabhri/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mortezabhri)  &nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mbhdev) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-cb0e0e?style=for-the-badge&logo=gmail&logoColor=white)](mail:mbahri.cv@gmail.com) 
 &ensp; 
 
 &ensp;
