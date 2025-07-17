@@ -7,11 +7,10 @@
 
 &ensp;
 
-🎯 من مرتضی هستم، توسعه‌دهنده‌ای علاقه‌مند به یادگیری و خلق ابزارهای مفید. عاشق برنامه‌نویسی، حل مسئله و یادگیری تکنولوژی‌های جدید هستم.  
-در مسیر حرفه‌ای‌ام، همیشه به دنبال تجربه‌های تازه، همکاری‌های مؤثر و رشد فردی و تیمی هستم.
+👨‍💻 I'm Morteza — a passionate software developer who loves building tools, solving real-world problems, and learning new technologies.  
+I enjoy working on personal and collaborative projects, and I'm always eager to grow as a developer and contribute to meaningful software.
 
-📄 برای دیدن رزومه کامل من [اینجا کلیک کنید](https://your-resume-link.com)
-
+📄 **[Click here to view my full resume](https://your-resume-link.com)**
 ## 🔥 GitHub Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mortezabhri&style=flat-square)
