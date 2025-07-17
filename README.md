@@ -6,12 +6,11 @@
 ![Gmail](https://img.shields.io/badge/MBahri.cv@gmail.com-cb0e0e?style=for-the-badge&logo=gmail&logoColor=white)
 &ensp; 
 
-&ensp;
 
 👨‍💻 I'm Morteza — a passionate software developer who loves building tools, solving real-world problems, and learning new technologies.  
 I enjoy working on personal and collaborative projects, and I'm always eager to grow as a developer and contribute to meaningful software.
 
-📄 **[Click here to view my full resume](https://your-resume-link.com)**
+📄 **[Click here to view my full resume](https://mbahri.ir)**
 ## 🔥 GitHub Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mortezabhri&style=flat-square)
