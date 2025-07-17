@@ -8,8 +8,7 @@
 &ensp; 
 
 
-👨‍💻 I'm Morteza — a passionate software developer who loves building tools, solving real-world problems, and learning new technologies.  
-I enjoy working on personal and collaborative projects, and I'm always eager to grow as a developer and contribute to meaningful software.
+👨‍💻 I'm Morteza — a passionate software developer who loves building tools, solving real-world problems, and learning new technologies.
 
 📄 **[Click here to view my full resume](https://mbahri.ir)**
 
